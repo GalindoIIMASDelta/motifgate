@@ -63,11 +63,17 @@ original. `import motifgate` re-exports all symbols.
 ## Installation
 
 Python ≥ 3.12.7 recommended.
+
 numpy ≥ 1.26.4
+
 scikit-learn ≥ 1.7.1
+
 torch ≥ 2.9.1 # CPU build on macOS arm64 (no CUDA required)
+
 torchaudio ≥ 2.9.1
+
 torchvision ≥ 0.24.1
+
 
 ```bash
 # clone, then from the repo root:
