@@ -1,6 +1,6 @@
 # MotifGate
 
-**A PWM-aware residual learning model for transcription factor binding site (TFBS) prediction in short windows (K = 7–14 bp).**
+**A PWM-aware residual learning model for transcription factor binding site (TFBS) prediction.**
 
 MotifGate decomposes the prediction logit into an explicit, differentiable PWM
 prior and a learned residual branch conditioned on the queried motif:
