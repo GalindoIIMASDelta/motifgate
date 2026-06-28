@@ -1,0 +1,11 @@
+name: motifgate
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.7
+  - numpy=1.26.4
+  - scikit-learn=1.7.1
+  - torch=2.9.1
+  - torchaudio=2.9.1
+  - torchvision=0.24.1
+  - pip=24.2

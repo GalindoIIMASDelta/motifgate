@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+Shared/Results/
+Shared/transfac/
+Shared/sites/
+Shared/Jaspar_pwms/
+*.pt
+.DS_Store
+
+# run outputs (do not commit)
+ExternalValidation/
+Ablations/
+analysis_out/
+Shared_unibind/

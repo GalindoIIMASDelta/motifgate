@@ -1,0 +1,269 @@
+tf_symbol,motif_id,tf_family,tf_class,species,tax_group
+AR,MA0007.3,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,Mus musculus,vertebrates
+ARNT,MA0004.1,PAS domain factors,Basic helix-loop-helix factors (bHLH),Mus musculus,vertebrates
+ARNTL,MA0603.1,PAS domain factors,Basic helix-loop-helix factors (bHLH),Mus musculus,vertebrates
+ASCL1,MA1100.2,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+ATF2,MA1632.1,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+ATF3,MA0605.2,Fos-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+ATF4,MA0833.2,ATF-4-related factors,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+ATF7,MA0834.1,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+BACH1,MA0591.1,Jun-related::Maf-related,Basic leucine zipper factors (bZIP),Mus musculus,vertebrates
+BACH2,MA1101.2,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+BATF,MA0462.2,B-ATF-related factors::Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+BATF3,MA0835.2,B-ATF-related factors,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+BCL6,MA0463.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+BCL6B,MA0731.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+BHLHE22,MA0818.1,Tal-related,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+BHLHE40,MA0464.2,Hairy-related factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+CDX2,MA0465.2,HOX,Homeo domain factors,Homo sapiens,vertebrates
+CEBPA,MA0102.4,CEBP-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+CEBPB,MA0466.2,CEBP-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+CEBPD,MA0836.2,CEBP-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+CEBPG,MA0838.1,CEBP-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+CLOCK,MA0819.1,PAS domain factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+CREB1,MA0018.4,CREB-related factors,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+CREM,MA0609.2,CREB-related factors,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+CTCF,MA0139.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+CTCFL,MA1102.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+CUX1,MA0754.1,HD-CUT,Homeo domain factors,Homo sapiens,vertebrates
+DUX4,MA0468.1,Paired-related HD factors,Homeo domain factors,Homo sapiens,vertebrates
+E2F1,MA0024.3,E2F,Fork head/winged helix factors,Homo sapiens,vertebrates
+E2F4,MA0470.2,E2F,Fork head/winged helix factors,Homo sapiens,vertebrates
+E2F6,MA0471.2,E2F,Fork head/winged helix factors,Homo sapiens,vertebrates
+E2F7,MA0758.1,E2F,Fork head/winged helix factors,Homo sapiens,vertebrates
+E2F8,MA0865.1,E2F,Fork head/winged helix factors,Homo sapiens,vertebrates
+EBF1,MA0154.4,Early B-Cell Factor-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+EBF3,MA1637.1,Early B-Cell Factor-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+EGR1,MA0162.4,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+EGR2,MA0472.2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+EGR3,MA0732.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+EHF,MA0598.3,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ELF1,MA0473.3,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ELF3,MA0640.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ELF4,MA0641.1,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ELF5,MA0136.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ELK1,MA0028.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ELK4,MA0076.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+EOMES,MA0800.1,TBrain-related factors,T-Box factors,Homo sapiens,vertebrates
+ERF,MA0760.1,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ERG,MA0474.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ESR1,MA0112.3,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+ESR2,MA0258.2,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+ESRRA,MA0592.3,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+ETS1,MA0098.3,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ETV1,MA0761.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ETV4,MA0764.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ETV5,MA0765.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+ETV6,MA0645.1,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+FLI1,MA0475.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+FOS,MA0476.1,Fos-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+FOSL1,MA0477.2,Fos-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+FOSL2,MA0478.1,Fos-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+FOXA1,MA0148.4,FOX,Fork head/winged helix factors,Homo sapiens,vertebrates
+FOXA2,MA0047.3,FOX,Fork head/winged helix factors,Homo sapiens,vertebrates
+FOXA3,MA1683.1,FOX,Fork head/winged helix factors,Homo sapiens,vertebrates
+FOXJ2,MA0614.1,FOX,Fork head/winged helix factors,Mus musculus,vertebrates
+FOXK1,MA0852.2,FOX,Fork head/winged helix factors,Homo sapiens,vertebrates
+FOXK2,MA1103.2,FOX,Fork head/winged helix factors,Homo sapiens,vertebrates
+FOXO1,MA0480.1,FOX,Fork head/winged helix factors,Mus musculus,vertebrates
+FOXP1,MA0481.3,FOX,Fork head/winged helix factors,Homo sapiens,vertebrates
+GABPA,MA0062.3,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+GATA1,MA0035.4,C4-GATA-related,Other C4 zinc finger-type factors,Homo sapiens,vertebrates
+GATA2,MA0036.3,C4-GATA-related,Other C4 zinc finger-type factors,Homo sapiens,vertebrates
+GATA3,MA0037.3,C4-GATA-related,Other C4 zinc finger-type factors,Homo sapiens,vertebrates
+GATA4,MA0482.2,C4-GATA-related,Other C4 zinc finger-type factors,Homo sapiens,vertebrates
+GATA6,MA1104.2,C4-GATA-related,Other C4 zinc finger-type factors,Homo sapiens,vertebrates
+GFI1,MA0038.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+GFI1B,MA0483.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Mus musculus,vertebrates
+GLIS1,MA0735.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+GLIS2,MA0736.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+GLIS3,MA0737.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+GRHL2,MA1105.2,Grainyhead-related factors,Grainyhead domain factors,Homo sapiens,vertebrates
+HAND2,MA1638.1,Tal-related,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+HIC1,MA0739.1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,Mus musculus,vertebrates
+HIF1A,MA1106.1,PAS domain factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+HINFP,MA0131.2,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+HLF,MA0043.3,CEBP-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+HMBOX1,MA0895.1,POU domain factors,Homeo domain factors,Homo sapiens,vertebrates
+HNF1A,MA0046.2,POU domain factors,Homeo domain factors,Homo sapiens,vertebrates
+HNF1B,MA0153.2,POU domain factors,Homeo domain factors,Homo sapiens,vertebrates
+HNF4A,MA0114.4,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+HNF4G,MA0484.2,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+HOXA9,MA0594.2,HOX,Homeo domain factors,Homo sapiens,vertebrates
+HOXB13,MA0901.2,HOX,Homeo domain factors,Homo sapiens,vertebrates
+HSF1,MA0486.2,HSF factors,Heat shock factors,Homo sapiens,vertebrates
+HSF2,MA0770.1,HSF factors,Heat shock factors,Homo sapiens,vertebrates
+IRF1,MA0050.2,Interferon-regulatory factors,Tryptophan cluster factors,Homo sapiens,vertebrates
+IRF2,MA0051.1,Interferon-regulatory factors,Tryptophan cluster factors,Homo sapiens,vertebrates
+IRF3,MA1418.1,Interferon-regulatory factors,Tryptophan cluster factors,Homo sapiens,vertebrates
+IRF4,MA1419.1,Interferon-regulatory factors,Tryptophan cluster factors,Homo sapiens,vertebrates
+ISL1,MA1608.1,HD-LIM,Homeo domain factors,Mus musculus,vertebrates
+JUN,MA0489.1,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+JUNB,MA0490.2,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+JUND,MA0491.2,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+KLF1,MA0493.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Mus musculus,vertebrates
+KLF11,MA1512.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+KLF12,MA0742.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Mus musculus,vertebrates
+KLF15,MA1513.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+KLF16,MA0741.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+KLF4,MA0039.4,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+KLF5,MA0599.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+KLF9,MA1107.2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+LEF1,MA0768.1,TCF-7-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+LHX2,MA0700.2,HD-LIM,Homeo domain factors,Homo sapiens,vertebrates
+LHX9,MA0701.2,HD-LIM,Homeo domain factors,Homo sapiens,vertebrates
+MAF,MA0501.1,Maf-related::Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+MAFB,MA0117.2,Maf-related,Basic leucine zipper factors (bZIP),Mus musculus,vertebrates
+MAFF,MA0495.3,Maf-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+MAFK,MA0496.3,Maf-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+MAX,MA0058.3,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MECOM,MA0029.1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,Mus musculus,vertebrates
+MEF2A,MA0052.4,Regulators of differentiation,MADS box factors,Homo sapiens,vertebrates
+MEF2B,MA0660.1,Regulators of differentiation,MADS box factors,Homo sapiens,vertebrates
+MEF2C,MA0497.1,Regulators of differentiation,MADS box factors,Homo sapiens,vertebrates
+MEF2D,MA0773.1,Regulators of differentiation,MADS box factors,Homo sapiens,vertebrates
+MEIS1,MA0498.2,TALE-type homeo domain factors,Homeo domain factors,Homo sapiens,vertebrates
+MEIS2,MA0774.1,TALE-type homeo domain factors,Homeo domain factors,Homo sapiens,vertebrates
+MGA,MA0801.1,TBX6-related factors,T-Box factors,Homo sapiens,vertebrates
+MITF,MA0620.3,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MLX,MA0663.1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MNT,MA0825.1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MXI1,MA1108.2,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MYB,MA0100.3,Myb/SANT domain factors,Tryptophan cluster factors,Homo sapiens,vertebrates
+MYBL2,MA0777.1,Myb/SANT domain factors,Tryptophan cluster factors,Homo sapiens,vertebrates
+MYC,MA0147.3,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MYCN,MA0104.4,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MYF5,MA1641.1,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MYOD1,MA0499.2,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+MYOG,MA0500.2,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+NEUROD1,MA1109.1,Tal-related,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+NEUROG2,MA0669.1,Tal-related,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+NFE2,MA0841.1,Jun-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+NFE2L2,MA0150.2,Jun-related,Basic leucine zipper factors (bZIP),Mus musculus,vertebrates
+NFIA,MA0670.1,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,Homo sapiens,vertebrates
+NFIB,MA1643.1,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,Homo sapiens,vertebrates
+NFIC,MA0161.2,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,Homo sapiens,vertebrates
+NFIL3,MA0025.2,CEBP-related,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+NFKB1,MA0105.4,NF-kappaB-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+NFKB2,MA0778.1,NF-kappaB-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+NFYA,MA0060.3,Heteromeric CCAAT-binding,Heteromeric CCAAT-binding factors,Homo sapiens,vertebrates
+NFYB,MA0502.2,Heteromeric CCAAT-binding,Heteromeric CCAAT-binding factors,Homo sapiens,vertebrates
+NFYC,MA1644.1,Heteromeric CCAAT-binding,Heteromeric CCAAT-binding factors,Homo sapiens,vertebrates
+NKX2-5,MA0063.2,NK,Homeo domain factors,Homo sapiens,vertebrates
+NKX3-1,MA0124.2,NK,Homeo domain factors,Mus musculus,vertebrates
+NR1H2,MA0115.1,Thyroid hormone receptor-related factors (NR1)::RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR1H3,MA0494.1,Thyroid hormone receptor-related factors (NR1)::RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Mus musculus,vertebrates
+NR1H4,MA1110.1,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR2C1,MA1535.1,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR2C2,MA0504.1,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR2F1,MA0017.2,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR2F2,MA1111.1,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR2F6,MA0677.1,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Mus musculus,vertebrates
+NR3C1,MA0113.3,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR4A1,MA1112.2,NGFI-B-related receptors (NR4),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR5A1,MA1540.1,FTZF1-related (NR5A),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+NR5A2,MA0505.1,FTZF1-related (NR5A),Nuclear receptors with C4 zinc fingers,Mus musculus,vertebrates
+NRF1,MA0506.1,NRF,Uncharacterized,Homo sapiens,vertebrates
+OCT4,MA0142.1,POU domain factors::SOX-related factors,Homeo domain factors::High-mobility group (HMG) domain factors,Mus musculus,vertebrates
+ONECUT1,MA0679.2,HD-CUT,Homeo domain factors,Homo sapiens,vertebrates
+ONECUT2,MA0756.1,HD-CUT,Homeo domain factors,Homo sapiens,vertebrates
+OSR2,MA1646.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+OTX2,MA0712.2,Paired-related HD factors,Homeo domain factors,Homo sapiens,vertebrates
+PAX5,MA0014.3,Paired domain only,Paired box factors,Homo sapiens,vertebrates
+PAX6,MA0069.1,Paired plus homeo domain,Paired box factors,Homo sapiens,vertebrates
+PBX1,MA0070.1,TALE-type homeo domain factors,Homeo domain factors,Homo sapiens,vertebrates
+PBX2,MA1113.2,TALE-type homeo domain factors,Homeo domain factors,Homo sapiens,vertebrates
+PBX3,MA1114.1,TALE-type homeo domain factors,Homeo domain factors,Homo sapiens,vertebrates
+PDX1,MA0132.2,HOX,Homeo domain factors,Homo sapiens,vertebrates
+PHOX2B,MA0681.2,Paired-related HD factors,Homeo domain factors,Homo sapiens,vertebrates
+PKNOX1,MA0782.2,TALE-type homeo domain factors,Homeo domain factors,Homo sapiens,vertebrates
+PLAG1,MA0163.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+POU2F1,MA0785.1,POU domain factors,Homeo domain factors,Homo sapiens,vertebrates
+POU2F2,MA0507.1,POU domain factors,Homeo domain factors,Homo sapiens,vertebrates
+POU5F1,MA1115.1,POU domain factors,Homeo domain factors,Homo sapiens,vertebrates
+PPARG,MA0066.1,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+PRDM1,MA0508.3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+PRDM4,MA1647.1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+RARA,MA0159.1,Thyroid hormone receptor-related factors (NR1)::RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+RARG,MA0859.1,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,Mus musculus,vertebrates
+RBPJ,MA1116.1,CSL-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+REL,MA0101.1,NF-kappaB-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+RELA,MA0107.1,NF-kappaB-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+RELB,MA1117.1,NF-kappaB-related factors,Rel homology region (RHR) factors,Homo sapiens,vertebrates
+REST,MA0138.2,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+RFX1,MA0509.2,RFX-related factors,Fork head/winged helix factors,Homo sapiens,vertebrates
+RFX2,MA0600.2,RFX-related factors,Fork head/winged helix factors,Homo sapiens,vertebrates
+RFX3,MA0798.2,RFX-related factors,Fork head/winged helix factors,Homo sapiens,vertebrates
+RFX5,MA0510.2,RFX-related factors,Fork head/winged helix factors,Homo sapiens,vertebrates
+RUNX1,MA0002.2,Runt-related factors,Runt domain factors,Mus musculus,vertebrates
+RUNX2,MA0511.2,Runt-related factors,Runt domain factors,Homo sapiens,vertebrates
+RUNX3,MA0684.2,Runt-related factors,Runt domain factors,Homo sapiens,vertebrates
+RXRA,MA0512.2,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Mus musculus,vertebrates
+RXRB,MA0855.1,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+SCRT1,MA0743.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SCRT2,MA0744.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SIX1,MA1118.1,HD-SINE,Homeo domain factors,Homo sapiens,vertebrates
+SIX2,MA1119.1,HD-SINE,Homeo domain factors,Homo sapiens,vertebrates
+SMAD2,MA0513.1,,,,
+SMAD3,MA0513.1,,,,
+SMAD4,MA1153.1,SMAD factors,SMAD/NF-1 DNA-binding domain factors,Mus musculus,vertebrates
+SNAI2,MA0745.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SOX10,MA0442.2,SOX-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+SOX13,MA1120.1,SOX-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+SOX17,MA0078.1,SOX-related factors,High-mobility group (HMG) domain factors,Mus musculus,vertebrates
+SOX2,MA0143.4,SOX-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+SOX4,MA0867.2,SOX-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+SOX6,MA0515.1,SOX-related factors,High-mobility group (HMG) domain factors,Mus musculus,vertebrates
+SOX9,MA0077.1,SOX-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+SP1,MA0079.4,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SP2,MA0516.2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SP3,MA0746.2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SP4,MA0685.1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,Homo sapiens,vertebrates
+SPDEF,MA0686.1,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+SPI1,MA0080.5,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+SPIB,MA0081.2,Ets-related,Tryptophan cluster factors,Homo sapiens,vertebrates
+SREBF1,MA0829.2,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+SRF,MA0083.3,Responders to external signals (SRF/RLM1),MADS box factors,Homo sapiens,vertebrates
+STAT1,MA0137.3,STAT factors,STAT domain factors,Homo sapiens,vertebrates
+STAT2,MA0517.1,STAT factors,STAT domain factors,Homo sapiens,vertebrates
+STAT3,MA0144.2,STAT factors,STAT domain factors,Homo sapiens,vertebrates
+STAT4,MA0518.1,STAT factors,STAT domain factors,Mus musculus,vertebrates
+STAT5A,MA0519.1,STAT factors,STAT domain factors,Mus musculus,vertebrates
+STAT5B,MA0519.1,STAT factors,STAT domain factors,Mus musculus,vertebrates
+STAT6,MA0520.1,STAT factors,STAT domain factors,Mus musculus,vertebrates
+T,MA0009.2,Brachyury-related factors,T-Box factors,Homo sapiens,vertebrates
+TAL1,MA0091.1,Tal-related::E2A,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+TBX21,MA0690.1,TBrain-related factors,T-Box factors,Homo sapiens,vertebrates
+TBX5,MA0807.1,TBX2-related factors,T-Box factors,Homo sapiens,vertebrates
+TCF12,MA0521.1,E2A,Basic helix-loop-helix factors (bHLH),Mus musculus,vertebrates
+TCF3,MA0522.3,E2A,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+TCF4,MA0830.2,E2A,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+TCF7,MA0769.2,TCF-7-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+TCF7L1,MA1421.1,TCF-7-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+TCF7L2,MA0523.1,TCF-7-related factors,High-mobility group (HMG) domain factors,Homo sapiens,vertebrates
+TEAD1,MA0090.3,TEF-1-related factors,TEA domain factors,Homo sapiens,vertebrates
+TEAD3,MA0808.1,TEF-1-related factors,TEA domain factors,Homo sapiens,vertebrates
+TEAD4,MA0809.2,TEF-1-related factors,TEA domain factors,Homo sapiens,vertebrates
+TFAP2A,MA0003.4,AP-2,Basic helix-span-helix factors (bHSH),Homo sapiens,vertebrates
+TFAP2C,MA0814.2,AP-2,Basic helix-span-helix factors (bHSH),Homo sapiens,vertebrates
+TFAP4,MA0691.1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+TFDP1,MA1122.1,E2F,Fork head/winged helix factors,Homo sapiens,vertebrates
+TFE3,MA0831.2,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+TFEB,MA0692.1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+THAP11,MA1573.1,THAP-related factors,C2CH THAP-type zinc finger factors,Homo sapiens,vertebrates
+THRB,MA1574.1,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+TP53,MA0106.3,p53-related factors,p53 domain factors,Homo sapiens,vertebrates
+TP63,MA0525.2,p53-related factors,p53 domain factors,Homo sapiens,vertebrates
+TP73,MA0861.1,p53-related factors,p53 domain factors,Homo sapiens,vertebrates
+TWIST1,MA1123.2,Tal-related,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+USF1,MA0093.3,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+USF2,MA0526.3,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),Homo sapiens,vertebrates
+VDR,MA0693.2,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,Homo sapiens,vertebrates
+WT1,MA1627.1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Mus musculus,vertebrates
+XBP1,MA0844.1,XBP-1-related factors,Basic leucine zipper factors (bZIP),Homo sapiens,vertebrates
+YY1,MA0095.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+YY2,MA0748.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+ZFX,MA0146.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Mus musculus,vertebrates
+ZNF143,MA0088.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+ZNF263,MA0528.2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates
+ZNF740,MA0753.2,Other factors with up to three adjacent zinc fingers,C2H2 zinc finger factors,Homo sapiens,vertebrates

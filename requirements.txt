@@ -1,0 +1,8 @@
+# All reported results were produced on CPU only (Apple M2, Python 3.12.7).
+# On macOS Apple Silicon the default PyPI `torch` wheel is the CPU build
+# (no CUDA). A CUDA build is optional and only needed if you have an NVIDIA GPU.
+numpy==1.26.4
+scikit-learn==1.7.1
+torch==2.9.1        # CPU build on macOS arm64 (no CUDA required)
+torchaudio==2.9.1
+torchvision==0.24.1

@@ -1,0 +1,33 @@
+{
+  "title": "MotifGate: a PWM-aware residual learning model for TFBS prediction",
+  "description": "MotifGate is an interpretable, lightweight model for transcription-factor binding-site (TFBS) prediction in short windows (K = 7-14 bp). It combines an exact, differentiable position-weight-matrix (PWM) prior with a learned residual branch gated by a single trainable scalar, so the magnitude of the learned correction over the interpretable prior is directly measurable. This record archives the reproducible software package: the model, training and evaluation pipeline, leakage-controlled split construction, real-TFBS negative sampling, interpretability and calibration analyses, baseline comparison scripts, the UniBind external-validation pipeline, and the statistical-significance, gate-extraction and ablation analyses. Data derive from public resources (JASPAR and UniBind); no new experimental data were generated.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Galindo-Hernández, Raúl",
+      "orcid": "0000-0003-2501-3265",
+      "affiliation": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS), Universidad Nacional Autónoma de México (UNAM)"
+    },
+    {
+      "name": "Pérez-Rueda, Ernesto",
+      "orcid": "0000-0002-6879-0673",
+      "affiliation": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS), Universidad Nacional Autónoma de México (UNAM)"
+    }
+  ],
+  "keywords": [
+    "transcription factor binding sites",
+    "TFBS",
+    "position weight matrix",
+    "differentiable PWM prior",
+    "residual learning",
+    "interpretable machine learning",
+    "regulatory genomics",
+    "JASPAR",
+    "UniBind"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    { "relation": "references", "scheme": "url", "identifier": "https://jaspar.elixir.no/" },
+    { "relation": "references", "scheme": "url", "identifier": "https://unibind.uio.no/" }
+  ]
+}
